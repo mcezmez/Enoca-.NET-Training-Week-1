@@ -1,0 +1,17 @@
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Infrastructure.deps.json
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Infrastructure.dll
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Infrastructure.pdb
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Application.dll
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.dll
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Application.pdb
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.pdb
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Infrastructure.csproj.CopyComplete
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Infrastructure.dll
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\obj\Debug\net6.0\refint\FirmaSiparisYonetimiAPI.Infrastructure.dll
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Infrastructure.pdb
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Infrastructure\FirmaSiparisYonetimiAPI.Infrastructure\obj\Debug\net6.0\ref\FirmaSiparisYonetimiAPI.Infrastructure.dll

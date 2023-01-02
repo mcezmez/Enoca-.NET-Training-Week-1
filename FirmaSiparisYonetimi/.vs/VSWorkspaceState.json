@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "\\Core",
+    "\\Core\\FirmaSiparisYonetimi.Domain",
+    "\\Core\\FirmaSiparisYonetimi.Domain\\obj",
+    "\\Core\\FirmaSiparisYonetimiAPI.Domain",
+    "\\Core\\FirmaSiparisYonetimiAPI.Domain\\Entities"
+  ],
+  "PreviewInSolutionExplorer": false
+}

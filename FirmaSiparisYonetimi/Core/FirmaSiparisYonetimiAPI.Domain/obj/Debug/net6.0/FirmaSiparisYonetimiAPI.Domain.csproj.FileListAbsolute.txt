@@ -1,0 +1,12 @@
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Domain\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.deps.json
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Domain\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.dll
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Domain\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.pdb
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Domain\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Domain\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Domain\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Domain\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.AssemblyInfo.cs
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Domain\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Domain\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.dll
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Domain\obj\Debug\net6.0\refint\FirmaSiparisYonetimiAPI.Domain.dll
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Domain\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.pdb
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Domain\obj\Debug\net6.0\ref\FirmaSiparisYonetimiAPI.Domain.dll

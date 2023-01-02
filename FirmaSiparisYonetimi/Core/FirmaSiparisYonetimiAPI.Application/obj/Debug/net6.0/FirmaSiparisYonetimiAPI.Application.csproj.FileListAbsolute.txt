@@ -1,0 +1,15 @@
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Application.deps.json
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Application.dll
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Application.pdb
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.dll
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\bin\Debug\net6.0\FirmaSiparisYonetimiAPI.Domain.pdb
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Application.csproj.AssemblyReference.cache
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Application.AssemblyInfoInputs.cache
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Application.AssemblyInfo.cs
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Application.csproj.CopyComplete
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Application.dll
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\obj\Debug\net6.0\refint\FirmaSiparisYonetimiAPI.Application.dll
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\obj\Debug\net6.0\FirmaSiparisYonetimiAPI.Application.pdb
+C:\Users\mcezm\Desktop\FirmaSiparisYonetimi\Core\FirmaSiparisYonetimiAPI.Application\obj\Debug\net6.0\ref\FirmaSiparisYonetimiAPI.Application.dll
